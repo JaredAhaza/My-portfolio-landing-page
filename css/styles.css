@@ -1,0 +1,16 @@
+body{
+  background-image: url("../images/hotel 2.jpg");
+  background-size: 1000px;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+h1{
+  color: blue;
+  text-align: center;
+}
+
+img{
+  height: 50%;
+  width: 50%;
+}
