@@ -13,4 +13,12 @@ h1{
 img{
   height: 50%;
   width: 50%;
+
+}
+.webpages{
+  text color: auto;
+}
+li{
+  display: list-item;
+  text-align: -webkit-match-parent;
 }
