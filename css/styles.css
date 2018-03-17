@@ -15,10 +15,7 @@ img{
   width: 50%;
 
 }
-.webpages{
-  text color: auto;
-}
-li{
-  display: list-item;
-  text-align: -webkit-match-parent;
+h4{
+  text-align: center;
+  color: red;
 }
